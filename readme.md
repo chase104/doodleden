@@ -54,7 +54,3 @@ If you prefer to run the full-stack application, you need to set up both the cli
   ```
 
   This will start both the client and the backend services, allowing you to run the full-stack application.
-
-### Documentation
-
-This README provides a basic setup guide. For more detailed documentation on development practices, API usage, and other important topics, please refer to the `/docs` directory in the repository. We encourage contributors to familiarize themselves with the documentation to better understand the project structure and contribution guidelines.
