@@ -1,0 +1,20 @@
+.text-wrap-class {
+  overflow-wrap: break-word !important;
+  word-break: break-word !important;
+  white-space: pre-wrap;
+  max-width: 100%;
+  text-align: left;
+}
+div .input-as-h3 {
+  font-size: 1.75rem;
+  font-weight: 500;
+  line-height: 1.2;
+  color: #000;
+  border: none;
+  width: 100%;
+  margin-bottom: 2px;
+  max-width: 300px;
+}
+.input-as-h3:focus {
+  outline: none;
+}

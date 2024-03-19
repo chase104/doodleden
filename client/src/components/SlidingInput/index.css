@@ -1,0 +1,17 @@
+.input-container {
+  overflow: hidden;
+  white-space: nowrap;
+  flex-wrap: nowrap !important;
+  width: 0 !important;
+  transition: width 0.5s ease;
+}
+
+.input-container.expanded {
+  width: 300px !important;
+}
+
+.input-container input,
+.input-container button {
+  display: inline-block;
+  vertical-align: middle;
+}
