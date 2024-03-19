@@ -6,6 +6,8 @@ Welcome to DoodleDen, the ultimate platform for doodling enthusiasts! Our applic
 
 ## Getting Started
 
+[Live Version](URL)
+
 To get started with developing DoodleDen, you'll need to set up your development environment. This guide will walk you through the process of pulling the project from GitHub and setting up both the client-side and the full-stack development environments.
 
 ### Prerequisites
@@ -50,6 +52,7 @@ If you prefer to run the full-stack application, you need to set up both the cli
   ```
   cd ../backend
   npm install
+  npm run build
   npm start
   ```
 
